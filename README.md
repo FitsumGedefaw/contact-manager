@@ -1,4 +1,4 @@
-#Contact_Manager
+# Contact_Manager
 ![Screenshot (65)](https://github.com/FitsumGedefaw/contact-manager/assets/91980891/3a5c3ed9-a4aa-4ee9-a8d8-c43a1adb8212)
 ![Screenshot (66)](https://github.com/FitsumGedefaw/contact-manager/assets/91980891/55b31a34-29f2-4909-8057-0d5a63f5493a)
 ![Screenshot (63)](https://github.com/FitsumGedefaw/contact-manager/assets/91980891/c9ab7b56-a288-4999-af19-1ab8ee4d7e6e)
@@ -8,6 +8,7 @@
 
 ## 📌Technologies
 ### 👉React with Typescript
+### 👉React Router
 ### 👉Tailwindcss
 ### 👉DummyJSON
 
