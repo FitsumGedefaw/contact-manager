@@ -6,10 +6,10 @@
 ![Screenshot (61)](https://github.com/FitsumGedefaw/contact-manager/assets/91980891/80ed0740-7ac5-46d5-803a-2f0e1a689869)
 ![Screenshot (62)](https://github.com/FitsumGedefaw/contact-manager/assets/91980891/31b86d02-7e23-44aa-b915-415506160c27)
 
-##📌Technologies
-###👉React with Typescript
-###👉Tailwindcss
-###👉DummyJSON
+## 📌Technologies
+### 👉React with Typescript
+### 👉Tailwindcss
+### 👉DummyJSON
 
 
 # React + Vite
