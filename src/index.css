@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+}
+.root-layout {
+  display: flex;
+}
+
+.sidebar {
+  min-height: 100vh;
+  overflow-y: auto;
+  background-color: #b8acac; 
+}
+/* .sidebar ul{
+  overflow-y: auto;
+} */
+.sidebar a{
+  display: block;
+  text-decoration: none;
+  background-color: aqua;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.contacts-header{
+  display: flex;
+}
